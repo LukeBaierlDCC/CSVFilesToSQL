@@ -1,0 +1,12 @@
+C:\Users\lukee\Desktop\CSharp Projects\CSVFile\CSVFile\CSVFile\bin\Debug\CSVFile.exe.config
+C:\Users\lukee\Desktop\CSharp Projects\CSVFile\CSVFile\CSVFile\bin\Debug\CSVFile.exe
+C:\Users\lukee\Desktop\CSharp Projects\CSVFile\CSVFile\CSVFile\bin\Debug\CSVFile.pdb
+C:\Users\lukee\Desktop\CSharp Projects\CSVFile\CSVFile\CSVFile\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\lukee\Desktop\CSharp Projects\CSVFile\CSVFile\CSVFile\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\lukee\Desktop\CSharp Projects\CSVFile\CSVFile\CSVFile\obj\Debug\CSVFile.csproj.AssemblyReference.cache
+C:\Users\lukee\Desktop\CSharp Projects\CSVFile\CSVFile\CSVFile\obj\Debug\CSVFile.csproj.CoreCompileInputs.cache
+C:\Users\lukee\Desktop\CSharp Projects\CSVFile\CSVFile\CSVFile\obj\Debug\CSVFile.csproj.CopyComplete
+C:\Users\lukee\Desktop\CSharp Projects\CSVFile\CSVFile\CSVFile\obj\Debug\CSVFile.exe
+C:\Users\lukee\Desktop\CSharp Projects\CSVFile\CSVFile\CSVFile\obj\Debug\CSVFile.pdb
+C:\Users\lukee\Desktop\CSharp Projects\CSVFile\CSVFile\CSVFile\bin\Debug\System.Data.OleDb.dll
+C:\Users\lukee\Desktop\CSharp Projects\CSVFile\CSVFile\CSVFile\bin\Debug\System.Data.OleDb.xml
